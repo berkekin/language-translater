@@ -1,6 +1,9 @@
 # language-translater
 EXE FİLE DOWNLOAD LİNG - EXE DOSYASI İNDİRME LİNKİ
 https://s6.dosya.tc/server18/e9hqv5/translater.exe.html
+
+
+https://drive.google.com/file/d/1NBM2-aAcGNBP6eevlNZ9jeYnEO1vcICT/view?usp=sharing
 EN:
 This code is a translation application built using PyQt5, a Python library for creating graphical user interfaces (GUIs). The application allows users to input text they want to translate, select the source and target languages from dropdown menus, and perform translation. Additionally, it supports voice translation using the microphone.
 
